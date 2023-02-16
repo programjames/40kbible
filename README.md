@@ -22,7 +22,7 @@ We are writing the book in Markdown and using [panoc](https://pandoc.org/install
 └── README.md
 ```
 ## Contributing
-To add a new field, go to `bible/index.md` and insert a new subtitle. Make a directory with the `camel_case` name of the field. To add a career insert a bullet point under its field in `bible/index.md` with a `[hashtag](#link)` to the corresponding file, and include it in the `input-files` in `defaults.yaml`.
+To add a new field, go to `bible/index.md` and insert a new subtitle. Make a directory with the `camel_case` name of the field. To add a career insert a bullet point under its field in `bible/index.md` with a `[hashtag](#link)` to the corresponding file, and include it in the `input-files` in `defaults.yaml`. Make sure your file ends in a new line.
 
 Keep fields and careers in lexicographic order.
 
