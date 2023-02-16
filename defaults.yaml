@@ -1,0 +1,6 @@
+input-files:
+ - bible/index.md
+ - bible/applied_mathematics/numerical_methods.md
+ - bible/applied_mathematics/quantitative_trading.md
+
+output-file: 40kBible.pdf
