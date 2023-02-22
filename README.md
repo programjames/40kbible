@@ -7,7 +7,7 @@ In their senior year of high school, most students are trying to determine caree
 The solution is a career bible curated by the Atlas fellows. Many have expressed interest in aiding secondary school education, and most fellows have specialized knowledge in at least one field, such as philosophy, economics, policy, chemistry, or subfields of mathematics and computer science. In the past this has made collaboration between two or three fellows pretty cool. The aim of this project is a collaboration between two or three dozen fellows, making something *really* cool.
 
 ## Setup
-We are writing the book in Markdown and using [panoc](https://pandoc.org/installing.html) to convert it to a pdf through `pdfLaTeX` (TeX Live). I recommend the [Obsidian](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian) editor.
+We are writing the book in Markdown and using [pandoc](https://pandoc.org/installing.html) to convert it to a pdf through `pdfLaTeX` (TeX Live). I recommend the [Obsidian](https://help.obsidian.md/Getting+started/Download+and+install+Obsidian) editor.
 
 ## Structure
 ```shell
